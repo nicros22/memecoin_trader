@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "memecoin-trader"
+version = "0.1.0"
+description = ""
+authors = ["Никита Пономаренко <nik24012002@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flet = "^0.23.2"
+tronpy = "^0.5.0"
+pyrogram = "^2.0.106"
+toml = "^0.10.2"
+asyncio = "^3.4.3"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
