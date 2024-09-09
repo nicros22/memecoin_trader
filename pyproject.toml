@@ -13,6 +13,10 @@ pyrogram = "^2.0.106"
 toml = "^0.10.2"
 asyncio = "^3.4.3"
 jupyter = "^1.0.0"
+mnemonic = "^0.21"
+curl-cffi = "^0.7.1"
+pytz = "^2024.1"
+loguru = "^0.7.2"
 
 
 [build-system]
